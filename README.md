@@ -1,5 +1,5 @@
-# AutoSkill
-Code repo for AutoSkill.
+# AutoSkill: Automatic Skill Discovery and Steering
+Code repo for *AutoSkill: Automatic Skill Discovery and Steering*.
 
 ---
 
