@@ -1,9 +1,24 @@
 # AutoSkill
 Code repo for AutoSkill.
 
+---
+
+### 1. Extracting Activations on Reasoning Examples
+> /activisions.ipynb
+
+### 2. Discovering Skills from Activations and Semantic Interpretations
+> /skills_interp.ipynb
+
+### 3. Steering the Target Model towards an Identified Skill Direction
+> /steering_via_model_edits.ipynb
+
+- Model Steering via Editing: Adding the Steering Vector to MLP Bias Parameters at Each Layer as an Offset
+
+---
 ### SFT Training Configurations
 /sft_configs/*
 
+---
 ### Evaluation Pipeline
 /evaltask-v6.py
 
