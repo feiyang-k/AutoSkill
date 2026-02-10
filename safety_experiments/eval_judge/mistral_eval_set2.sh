@@ -4,8 +4,8 @@ set -euo pipefail
 # ----------------------------
 # Paths
 # ----------------------------
-INPUT_BASE="/helios-storage/helios3-data/mahavirdabas18/auto_skill_data_v2/inference_outputs"
-OUTPUT_BASE="/helios-storage/helios3-data/mahavirdabas18/auto_skill_data_v2/strong_reject_output"
+INPUT_BASE=""
+OUTPUT_BASE=""
 
 EVAL_SCRIPT="async_strong_reject_eval.py"   # evaluator script
 
