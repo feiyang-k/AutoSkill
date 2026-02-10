@@ -18,10 +18,10 @@ SCRIPT="extract_activations.py"
 # ================================
 # Data paths
 # ================================
-INPUT_JSON="/home/mahavirdabas18/programs/autoskill_safety/icml_exp_set3/raw_data_artifcats/extracted_skills_per_query.json"
+INPUT_JSON="path to json"
 COLUMN="mutated_prompt"
 
-OUTPUT_DIR="/home/mahavirdabas18/programs/autoskill_safety/icml_exp_set3/activation_extraction_mistral_layer15/activations"
+OUTPUT_DIR="your output path"
 
 # ================================
 # Run
